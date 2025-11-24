@@ -1,7 +1,7 @@
 # SafeEats-Chrome
 SafeEats is a browser extension that helps users make online recipes safe for their food allergies. 
 
-SafeEats automatically scans online recipes, flags ingredients that may contain your allergens, and suggests simple swaps right on the page – perfect for home cooks, parents, and anyone who needs dairy-free, gluten-free, nut-free, or other allergy-friendly meals. 🧑‍🍳🌱
+SafeEats automatically scans online recipes, flags ingredients that may contain your allergens, and suggests simple swaps right on the page, perfect for home cooks, parents, and anyone who needs dairy-free, gluten-free, nut-free, or other allergy-friendly meals. 🧑‍🍳🌱
 
 # Chrome Webstore
 
